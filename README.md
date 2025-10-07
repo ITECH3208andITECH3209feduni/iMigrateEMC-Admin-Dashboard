@@ -9,6 +9,8 @@ A comprehensive, secure, and real-time dashboard for iMigrateEMC administrators 
 ---
 
 ## ✨ Key Features
+<img width="1358" height="337" alt="image" src="https://github.com/user-attachments/assets/eeba7c14-e02c-4d84-bd9a-2d970f908cae" />
+
 
 - **Secure Authentication**: Role-based access control ensures only users with an `admin` role can access the dashboard.
 - **Booking Management**:
