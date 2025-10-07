@@ -1,0 +1,5 @@
+{
+  "name": "Admin Booking Dashboard",
+  "description": "An admin dashboard to manage client bookings, available services, and communicate with users via a live chat. Built with React, TypeScript, and Tailwind CSS.",
+  "requestFramePermissions": []
+}
