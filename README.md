@@ -3,8 +3,8 @@
 
 A comprehensive, secure, and real-time dashboard for iMigrateEMC administrators to manage client bookings, handle partner expressions of interest (EOIs), manage services, and communicate directly with clients via live chat.
 
- 
-*(Note: Replace with an actual screenshot of the application)*
+ <img width="1328" height="652" alt="image" src="https://github.com/user-attachments/assets/f8370d1d-9a3f-4597-a93a-36f53aed6a69" />
+
 
 ---
 
